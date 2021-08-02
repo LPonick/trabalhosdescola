@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(162, 216, 167);
+}
+p{
+    font-size: 30px;
+}
+ul{
+    font-size: 30px;
+}
+ol{
+    font-size: 30px;
+}
+ul li p{
+    padding: 0px;
+    margin: 0px;
+}
+p.sempe{
+    padding-bottom:0px ;
+    margin-bottom:0px;
+}
