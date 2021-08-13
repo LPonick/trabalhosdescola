@@ -8,3 +8,7 @@ iframe{
     margin-left: 20px;
     margin-top: 10px;
 }
+.pontos li p{
+    margin: 0px;
+    padding: 0px;
+}
